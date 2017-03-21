@@ -46,11 +46,5 @@
     ![SS1](ss1.png)
     ![SS2](ss2.png)
 
-- *NEVER ENOUGH SUPPORT RESOURCE (NO DEDICATED TEAM)*, *BOTTLENECK*
-    * Dedicated team with lead, standups, own bug queue separate from backlog
-
-- External Dev Inquiry
-    * This is a problem with our documentation/sdks, we just have to fix/ammend it as we go.
-
-- External Dev Problem
-    * This needs investigation (1 hour to a day depending on complexity. Might need to escalate to Andrew as well)
+- *NEVER ENOUGH SUPPORT RESOURCE (NO DEDICATED TEAM)*, *BOTTLENECK* (External Dev Inquiry, External Dev Problem)
+    * Dedicated team with lead, standups, own bug queue separate from backlog, able to spend time investigating issues, etc.
