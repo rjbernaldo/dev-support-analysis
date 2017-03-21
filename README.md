@@ -47,4 +47,4 @@
     ![SS2](ss2.png)
 
 - *NEVER ENOUGH SUPPORT RESOURCE (NO DEDICATED TEAM)*, *BOTTLENECK* (External Dev Inquiry, External Dev Problem)
-    * Dedicated team with lead, standups, own bug queue separate from backlog, able to spend time investigating issues, etc.
+    * Dedicated team with lead, standups, own bug queue separate from backlog, able to spend time investigating issues, able to build internal tools, make dev support FUN, etc.
