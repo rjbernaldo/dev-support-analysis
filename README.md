@@ -6,10 +6,10 @@
 - Not really prioritized
 - No time for investigation (since like I said, you had a feature to ship)
 
-## Problem of dev support:
+## Problems of dev support:
 - *SLOW* - All requests, even simple ones like change email go through tickets (good for devs, bad for ops)
 
-- *BUGS NEVER GET FIXED* - All bugs/fixes discovered need to go through the product backlog (which has over a thousand entries) before a developer can get to it
+- *BUGS NEVER GET FIXED* - All bugs/fixes discovered need to go through the backlog (which has over a thousand entries) before a developer can get to it
 
 - *DANGEROUS* - Most tasks are accomplished via the rails console (easy to get something wrong, one mistake can cause an outage)
 
@@ -41,11 +41,13 @@
     * Can we get test cards for the prelive environment
 
 ## Solutions
-- Internal Task, Internal Ops Problems, External Ops Problems
-    * Self serve app to do these tasks for them
-    * Self serve app to offer some kind of visualization so they can find the answer themselves
+- *SLOW*, *BUGS NEVER GET FIXED*, *DANGEROUS* (Internal Task, Internal Ops Problems, External Ops Problems)
+    * Self serve app to do these tasks for them or offer some kind of visualization so they can find the answer themselves
     ![SS1](ss1.png)
     ![SS2](ss2.png)
+
+- *NEVER ENOUGH SUPPORT RESOURCE (NO DEDICATED TEAM)*, *BOTTLENECK*
+    * Dedicated team with lead, standups, own bug queue separate from backlog
 
 - External Dev Inquiry
     * This is a problem with our documentation/sdks, we just have to fix/ammend it as we go.
