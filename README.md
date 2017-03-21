@@ -41,17 +41,14 @@
     * Can we get test cards for the prelive environment
 
 ## Solutions
-- Internal Task
-    > Self serve app to do these tasks for them (screenshot)
-
-- Internal Ops Problems
-    > Self serve app to offer some kind of visualization so they can find the answer themselves (screenshot)
-
-- External Ops Problems
-    > Self serve app to offer some kind of visualization so they can find the answer themselves (screenshot and support.spreedly.com)
+- Internal Task, Internal Ops Problems, External Ops Problems
+    * Self serve app to do these tasks for them
+    * Self serve app to offer some kind of visualization so they can find the answer themselves
+    ![SS1](ss1.png)
+    ![SS2](ss2.png)
 
 - External Dev Inquiry
-    > This is a problem with our documentation/sdks, we just have to fix/ammend it as we go.
+    * This is a problem with our documentation/sdks, we just have to fix/ammend it as we go.
 
 - External Dev Problem
-    > This needs investigation (1 hour to a day depending on complexity. Might need to escalate to Andrew as well)
+    * This needs investigation (1 hour to a day depending on complexity. Might need to escalate to Andrew as well)
