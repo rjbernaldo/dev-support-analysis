@@ -7,7 +7,7 @@
 - No time for investigation (since like I said, you had a feature to ship)
 
 ## Problems of dev support:
-- *SLOW* - All requests, even simple ones like change email go through tickets (good for devs, bad for ops)
+- *SLOW* - All requests, even simple ones like change email, go through tickets (good for devs, bad for ops)
 
 - *BUGS NEVER GET FIXED* - All bugs/fixes discovered need to go through the backlog (which has over a thousand entries) before a developer can get to it
 
