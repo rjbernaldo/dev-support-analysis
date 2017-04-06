@@ -9,8 +9,6 @@
 ## Problems of dev support:
 - *SLOW* - All requests, even simple ones like change email, go through tickets (good for devs, bad for ops)
 
-- *BUGS NEVER GET FIXED* - All bugs/fixes discovered need to go through the backlog (which has over a thousand entries) before a developer can get to it
-
 - *DANGEROUS* - Most tasks are accomplished via the rails console (easy to get something wrong, one mistake can cause an outage)
 
 - *NEVER ENOUGH SUPPORT RESOURCE (NO DEDICATED TEAM)* - Devs need an implicit context shift before they can work on a ticket, they needed another one to go back to the feature they're writing
